@@ -1,1 +1,0 @@
-console.log("Remove layer:", magma.removeLayer("layer2"));

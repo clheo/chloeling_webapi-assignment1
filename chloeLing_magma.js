@@ -95,6 +95,7 @@ module.exports = {
         if (opacity > 100) {
             opacity = 100;
         }
+
         found.opacity = opacity;
 
         return found;
